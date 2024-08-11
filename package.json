@@ -1,0 +1,16 @@
+{
+  "name": "playwright-course-mj-consultant",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.45.3",
+    "@types/node": "^20.14.11",
+    "cross-env": "^7.0.3",
+    "dotenv": "^16.4.5"
+  }
+}
